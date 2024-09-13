@@ -1,4 +1,5 @@
 <!-- inspiração da divaa <3 --!>
+
 <!--https://github.com/Glssv!-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B057FF">
@@ -8,7 +9,7 @@
 </p>
 
 <main>
-  <p>Me chamo Jade Ferreira, sou uma paty de T.I que mora no interior de Minas Gerais, que tem 19 aninhos. Sou mãe de dois lindos cachorros, mini marombeira, e apaixonada por front-end. Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, no Estudonauta, curso pago do Gustavo Guanabara. Estou ansiosa para entrar no mundo do beck-end também, apesar de já saber um pouco sobre linguagem C e Python, irei atrás de certificações, conhecimentos adicionais e, é claro, mais estresse hahah. &#x1F497;
+  <p>Me chamo Jade Ferreira, sou uma estudante de T.I em formação, que mora no interior de Minas Gerais, que tem 19 anos. Uma pessoa um pouco perfeccionista, que adora criar playlists temáticas, com isso, seu código nunca ficará inacabado ou desleixado heheh. Iniciei meus estudos no Estudonauta, programando em C, e logo depois fui para o front_end, onde amei a experiência de criar códigos com HTML, CSS e JS. Recentemente estou me aprofundando nos estudos com a Alura, mas, com o foco em Back-End e Data Science. &#x1F497;
 </p>
 </main>
 
