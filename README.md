@@ -2,10 +2,10 @@
 
 <!--https://github.com/Glssv!-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B057FF">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4F6F52">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4992&pause=987&color=B057FF&center=true&vCenter=true&random=false&width=435&lines=Hello!+Meu+nome+%C3%A9+Jade+%3A);50%25+nerd+-+50%25+IT+girl+%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4992&pause=987&color=4F6F52&center=true&vCenter=true&random=false&width=435&lines=Hello!+Meu+nome+%C3%A9+Jade+%3A);50%25+nerd+-+50%25+IT+girl+%3C3" alt="Typing SVG" /></a>
 </p>
 
 <main>
@@ -14,8 +14,8 @@
 </main>
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jadeferreira&show_icons=true&count_private=true&hide_border=true&title_color=B057FF&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Jade github stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeferreira&layout=compact&hide_border=true&title_color=B057FF&text_color=98E3DE&bg_color=0d1117" alt="Most Used Languages">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jadeferreira&show_icons=true&count_private=true&hide_border=true&title_color=4F6F52&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Jade github stats">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeferreira&layout=compact&hide_border=true&title_color=4F6F52&text_color=98E3DE&bg_color=0d1117" alt="Most Used Languages">
 </div>
 
 ### Minhas skills
@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B057FF&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4F6F52&section=footer">
 
 
 <div align="center">
