@@ -20,7 +20,7 @@
 
 ### Minhas skills
 ![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
-![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=157286&color=001117)
+![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=4F6F52&color=001117)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4F6F52&section=footer">
