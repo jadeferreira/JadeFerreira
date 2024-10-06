@@ -15,7 +15,7 @@
 
 <div align="center"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jadeferreira&show_icons=true&count_private=true&hide_border=true&title_color=185519&icon_color=F4D447&text_color=98E3DE&bg_color=0D1117" alt="Jade github stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeferreira&layout=compact&hide_border=true&title_color=185519&text_color=98E3DE&bg_color=185519" alt="Most Used Languages">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeferreira&layout=compact&hide_border=true&title_color=185519&text_color=98E3DE&bg_color=0D1117" alt="Most Used Languages">
 </div>
 
 ### Minhas skills
