@@ -22,6 +22,7 @@
 ### Minhas skills
 ![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5&logoColor=E34F26&color=001117)
 ![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=295F98&color=001117)
+![JAVASCRIPT](https://img.shields.io/badge/JS-001117?style=for-the-badge&logo=javascript&logoColor=#F7DF1E&color=001117)
 ![JAVA](https://img.shields.io/badge/JAVA-001117?style=for-the-badge&logo=java&logoColor=295F98&color=001117)
 
 
