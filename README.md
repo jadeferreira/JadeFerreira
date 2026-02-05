@@ -2,7 +2,7 @@
   
 ## 💫 About Me:
 Olá! Me chamo Jade Ferreira, tenho 20 anos e sou formada em Análise e Desenvolvimento de Sistemas. Moro no interior de Minas Gerais e sou uma entusiasta de tecnologia, com atenção aos detalhes e um toque de perfeccionismo.
-Tenho conhecimentos em PHP, SQL, Java, HTML, CSS e JavaScript, além de noções de React para desenvolvimento front-end. Estou em constante evolução técnica e, em breve, iniciarei uma pós-graduação em Ciência de Dados, ampliando minha visão sobre análise, dados e tomada de decisão baseada em tecnologia. :)
+Tenho conhecimentos em PHP, SQL, Java, HTML, CSS e JavaScript, além de noções de React para desenvolvimento front-end. Estou em constante evolução técnica e, recentemente, iniciei uma pós-graduação em Ciência de Dados com IA, ampliando minha visão sobre análise, dados e tomada de decisão baseada em tecnologia. :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jadeferreirae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jadeferreirae) 
