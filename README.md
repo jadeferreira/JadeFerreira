@@ -2,9 +2,9 @@
 
 # Jade Ferreira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfólio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jadeferreirae)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jadeferreirae)
+[![Portfolio](https://img.shields.io/badge/Portfólio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://jadeferreira.github.io/dev-portfolio)
 
 </div>
 
