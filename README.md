@@ -31,8 +31,8 @@ Olá! Me chamo Jade Ferreira, tenho 20 anos e sou formada em Análise e Desenvol
 
 <div align="center">
 
-![Jade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+![Jade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadeferreira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeferreira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
 
 </div>
